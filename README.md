@@ -78,13 +78,13 @@ YongChongMining/
 ![등록장애인 수](outputs/disabled_count_2023.png)
 
 ### 2013→2023 시도별 장애유형별 증가율
-![증가율](outputs/growth_rate_2013_2023.png)
+![증가율](outputs/growth_2013_2023.png)
 
 ### 2013·2018·2023 등록 추이
-![추이](outputs/trend_lines.png)
+![추이](outputs/trend_2013_03.png)
 
 ### 인터랙티브 지도
-[👉 결과 보기 (HTML)](outputs/interactive_map.html)
+[결과 보기 (HTML)](outputs/interactive_map.html)
 
 ---
 
