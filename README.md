@@ -81,10 +81,10 @@ YongChongMining/
 ![증가율](outputs/growth_2013_2023.png)
 
 ### 2013·2018·2023 등록 추이
-![추이](outputs/trend_2013_03.png)
+![추이](outputs/trend_2013_2023.png)
 
 ### 인터랙티브 지도
-[결과 보기 (HTML)](outputs/interactive_map.html)
+![지도](outputs/interactive_map.png)
 
 ---
 
